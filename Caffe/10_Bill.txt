@@ -1,0 +1,12 @@
+Customer Mobile: 10
+TOTAL Before Discount: 350.0
+TOTAL After Discount: 350.0
+--------------------------
+Item: Cupcakes
+Quantity: 1
+Price: 50.0
+--------------------------
+Item: Americano
+Quantity: 2
+Price: 150.0
+--------------------------
